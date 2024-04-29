@@ -1,0 +1,2 @@
+# helloDevops
+orientation exercise
