@@ -1,0 +1,22 @@
+{
+  "name": "hello_devops",
+  "version": "1.0.0",
+  "description": "for orientation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rhildred/helloDevops.git"
+  },
+  "keywords": [
+    "orientation"
+  ],
+  "author": "Rich Hildred",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rhildred/helloDevops/issues"
+  },
+  "homepage": "https://github.com/rhildred/helloDevops#readme"
+}
