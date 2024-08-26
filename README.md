@@ -3,4 +3,5 @@ orientation exercise
 
 TLDR;
 
-[Edit Here](https://diy-pwa.dev/~/gh/rhildred/helloDevops) ... Look especially at hello.py.
+1. Make sure that you have a github account
+2. Click on 
